@@ -93,7 +93,9 @@ This repo includes a **devcontainer setup**:
 
 ## 📸 Screenshot
 
-*(Add a screenshot of your running Streamlit app here)*
+![Dashboard Screenshot][images/screenshot.png](https://jumpshare.com/s/G2RUSduTk51eWeqU7dvV)
+
+
 
 ---
 
