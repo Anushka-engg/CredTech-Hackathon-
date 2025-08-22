@@ -1,9 +1,4 @@
-Got it ✅
-I’ll prepare a **README.md** for your GitHub repo so that anyone (including you) can run your Streamlit + MongoDB app smoothly.
 
-Here’s a polished draft:
-
----
 
 # 📊 CredTech Hackathon – Streamlit + MongoDB Dashboard
 
