@@ -10,7 +10,7 @@ It is an **Explainable Credit Intelligence Platform** that ingests financial dat
 
 * 🔗 **Streamlit-powered interactive dashboard**
 * 🗄️ **MongoDB Atlas integration** with `pymongo`
-* 📊 Displays **scores** collection in a clean table
+* 📊 Displays **scores** collection in a clean table link - https://redesigned-lamp-pjg55xw4r767f6r5p-8501.app.github.dev/
 * ⚡ Auto-deployable inside **GitHub Codespaces**
 * 🖥️ Easy local setup
 
