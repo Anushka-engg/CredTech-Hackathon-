@@ -51,16 +51,6 @@ source .venv/bin/activate   # (Windows: .venv\Scripts\activate)
 pip install -r requirements.txt
 ```
 
-### 4️⃣ Configure Secrets
-
-Create a `.streamlit/secrets.toml` file and add your MongoDB credentials:
-
-```toml
-MONGO_URI = "mongodb+srv://<username>:<password>@cluster.mongodb.net/?retryWrites=true&w=majority"
-DB_NAME = "hackathon_db"
-```
-
----
 
 ## ▶️ Running the App
 
@@ -80,14 +70,12 @@ streamlit run app.py
 ## ✅ Requirements
 
 * Python **3.9+**
-* MongoDB Atlas Cluster
 * Packages from `requirements.txt`:
 
   * `streamlit`
   * `pymongo`
   * `pandas`
 
-![Dashboard Screenshot][images/screenshot.png](https://jumpshare.com/s/G2RUSduTk51eWeqU7dvV)
 ---
 
 ## 👩‍💻 Author
